@@ -11,5 +11,4 @@ root{
           body{
           background: var(--cor-texto-principal);
           color: var(--cor-texto-principal);
-          font-family: "Changa", sans-serif;
           }
