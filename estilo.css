@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
 
-root {
+:root {
      --cor-de-fundo: #043915;
      --cor-texto-principal: #FFFD8F;
 }
