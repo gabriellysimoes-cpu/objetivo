@@ -26,4 +26,22 @@ body {
      width: 100%;
      font-size: 32px;
 
+
+}
+.titulo-principal span{
+     color:black
+
+}
+
+.botao{
+     background-color: var (--botao-inativo);
+     display: flex;
+     justify-content: center;
+     padding:lem;
+     font-size: 18px;
+     align-items: center;
+     width: 100%;
+
+
+
 }
