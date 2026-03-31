@@ -10,18 +10,18 @@ body {
      background: var(--cor-de-fundo);
      color: var(--cor-texto-principal);
 }
-.conteudo-principal{
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-max-width: 120px;
-width: 100%;
-margin: 0 auto
 
+.conteudo-principal {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     max-width: 120px;
+     width: 100%;
+     margin: 0 auto
 }
 
-.titulo-principal{
+.titulo-principal {
      text-align: left;
      width: 100%;
      font-size: 32px;
