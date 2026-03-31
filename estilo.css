@@ -41,7 +41,8 @@ body {
      font-size: 18px;
      align-items: center;
      width: 100%;
-
-
-
+     border-bottom: 4px solid var(--botao-ativo);
+     border-bottom: 2px solid var(--botao-ativo);
+     border-bottom: 2px solid var(--botao-ativo);
+     border-top: none;
 }
