@@ -33,7 +33,7 @@ body {
 
 }
 
-.botao{
+.botao.ativo{
      background-color: var (--botao-inativo);
      display: flex;
      justify-content: center;
