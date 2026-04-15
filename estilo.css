@@ -55,8 +55,18 @@ body {
      border-bottom: 4px solid black
 }
 .aba-conteudo.ativo{
+     display:block;
      
 }
+.aba-conteudo{
+     display:none;
+}   
+.aba-texto{
+     background-color: var(--botao-inativo);
+     padding: 40px;
+     border-radius:0 0 40px 0;
+}
+
 @media screen and (min-width:768px) {
      .botoes {
           display: flex;
