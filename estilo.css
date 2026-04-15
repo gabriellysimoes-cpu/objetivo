@@ -64,10 +64,16 @@ body{
      display:none;
 }   
 .aba-texto{
+     background-color: var(--cor-de-fundo);
+     padding: 40px;
+     border-radius: 0 0 40px 40px;
+}
+.aba-texto{
      background-color: var(--botao-inativo);
      padding: 40px;
-     border-radius:0 0 40px 0;
+     border-radius:0 0 40px 40px;
 }
+
 .conteudo-titulo-principal{
      font-size: 28px;
      text-align: center;
