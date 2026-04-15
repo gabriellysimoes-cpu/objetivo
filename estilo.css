@@ -68,10 +68,9 @@ body{
      padding: 40px;
      border-radius:0 0 40px 0;
 }
-.abas-texto{
-     background-color: var(--botao-inativo);
-     padding: 40px;
-     border-radius: 0 0 40px 0;
+.conteudo-titulo-principal{
+     font-size: 28px;
+     text-align: center;
 }
 
 @media screen and (min-width:768px) {
