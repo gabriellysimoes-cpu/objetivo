@@ -20,7 +20,7 @@ body{
      align-items: center;
      max-width: 1200px;
      width: 100%;
-     margin: 0 auto
+     margin: 0 auto;
 }
 
 .titulo-principal {
@@ -54,7 +54,7 @@ body{
 }
 .botao.ativo{
      background: var(--botao-ativo);
-     border-bottom: 4px solid black
+     border-bottom: 4px solid black;
 }
 .aba-conteudo.ativo{
      display:block;
