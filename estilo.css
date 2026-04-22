@@ -63,12 +63,8 @@ body{
 .aba-conteudo{
      display:none;
 }   
-.aba-texto{
-     background-color: var(--cor-de-fundo);
-     padding: 40px;
-     border-radius: 0 0 40px 40px;
-}
-.aba-texto{
+
+.abas-texto{
      background-color: var(--botao-inativo);
      padding: 40px;
      border-radius:0 0 40px 40px;
