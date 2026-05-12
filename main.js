@@ -4,5 +4,7 @@ const textos = document.querySelectorAll(".aba-conteudo")
 console.log(textos)
 
 for(let i = 0); i<botoes.length;i++{
-
+    botoes[i].onclick = fuction (){
+        
+    }
 }
