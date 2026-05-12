@@ -3,3 +3,4 @@ console.log(botoes)
 const textos = document.querySelectorAll(".aba-conteudo")
 console.log(textos)
 
+for(let i = 0) 
