@@ -27,4 +27,5 @@ function calculaTempo(tempoObjetivo){
     let tempoAtual = new Date ();
     let tempoFinal = tempoObjetivo - tempoAtual
     console.log(tempoFinal)
+    let segundos = Math.floor(tempoFinal / 1000)
 }
