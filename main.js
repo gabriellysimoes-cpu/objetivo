@@ -17,9 +17,6 @@ for(let i = 0; i<botoes.length;i++){
 
  const contadores = document.querySelectorAll(".contador")
 const tempoObjetivo1 = new Date("2026-10-05T00:00:00)")
-const contadores = document.querySelectorAll(".contador")
 const tempoObjetivo2 = new Date("2026-10-05T00:00:00)")
-const contadores = document.querySelectorAll(".contador")
 const tempoObjetivo3 = new Date("2026-10-05T00:00:00)")
-const contadores = document.querySelectorAll(".contador")
 const tempoObjetivo4  = new Date("2026-10-05T00:00:00)")
