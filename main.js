@@ -25,6 +25,6 @@ const tempos = [tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4]
 
 function calculaTempo(tempoObjetivo){
     let tempoAtual = new Date ();
-    let tempoFinal = temṕoObjetivo - tempoAtual
+    let tempoFinal = tempoObjetivo - tempoAtual
     console.log(tempoFinal)
 }
